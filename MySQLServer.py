@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import mysql.connector
+import mysql.connector #comment: Ensure you have mysql-connector-python installed
 
 def create_database():
     connection = None
