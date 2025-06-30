@@ -6,3 +6,4 @@ The database name will be passed as argument of mysql command
 """
 SELECT * FROM information_schema.tables
 WHERE table_schema = 'alx_book_store';
+-- The above query retrieves all tables from the 'alx_book_store' database
